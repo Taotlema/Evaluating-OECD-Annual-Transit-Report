@@ -16,6 +16,8 @@
 
 ## Understanding the Results
 
-## Impact
+### Conclusion and Takeaways
+
+### Impact
 
 ## References
