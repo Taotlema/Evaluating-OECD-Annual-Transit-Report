@@ -10,10 +10,6 @@
 
 ### General Investigation
 
-### Comparative Investigation
-
-### Growth and Crisis Investigation
-
 ## Understanding the Results
 
 ### Conclusion and Takeaways
