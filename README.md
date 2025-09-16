@@ -48,8 +48,62 @@ The datasets used in the project have already been filtered by the OECD, however
 You might notice in my code that I do remove some of the recorded tranist catagories identified as {TOT_INL: Total Inland, HIRING - Third-Party Movers , OWN - Own transportation} since these were either aggreate or did not share much information on the means for transporatation.
 
 ### General Investigation
+In order to generate a general overview of transit trends around the globe, I have created eight visualizations - either in the forms of tables, charts, or both.
 
+1) **Global Freight Distribution (Pie Chart)**
+
+![Alt text](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Distribution%20of%20Freight%20Goods%20by%20Transit%20Mode.png "Figure One")
+
+Road transport carries most of the world’s freight, followed by maritime and rail.
+
+2) **Freight Volume Trends Over Time (Line Graph, 2020-2023)**
+
+![Alt text](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Freight%20Volume%20of%20Goods%20Over%20Time.png "Figure Two")
+
+This visualization not only provides a overview of how each mode of transit has been used but also shows how said usage was impacted during COVID and the pandemic recovery period.
+
+3) **Passenger Volume by Transit Mode (Bar Chart)**
+
+![Alt text]([path/to/image.jpg](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Passenger%20Distribution.png) "Figure Three")
+
+The figure only has access to road and rail usage for passengers, with road tranist heavily dominating.
+
+4) **Passenger Volume Trends Over Time (Line Graph, 2020-2023)**
+
+![Alt text](path/to/image.jpg "Figure Four")
+
+Visualization shows how passenger ridership per mode changed throughout 2020 until 2023.
+
+5) **Incidents by Transit Mode (Table)**
+
+![Alt text]((https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Incidents%20by%20Transport%20Mode.png)"Figure Five")
+
+Passenger incident data has only been collected for road transit, the table above merely shows the ammount of incidents that have occured.
+
+6) **Country Transit Mode Dependency (Heatmap)**
+
+![Alt text](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Country%20Transit%20Mode%20Dependency.png) "Figure Six")
+
+Figure above shows how dependent countries are on a given transit mode. Often shaped by the geogrpahy, and economic activity of the region.
+
+7) **Goods and Passenger Transit Mode Dependency (Heatmap)**
+
+![Alt text](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Goods%20and%20Transit%20Mode%20Dependency.png "Figure Seven")
+
+Heatmap showing the dependent each movement metric {frieght, container, and passenger} are on each transit mode. Note that frieght refers to all moved cargo, while containers specifically refer to the industril metal boxes.
+
+8) **Infrastructure Efficiency Analysis (Table)**
+
+![Alt text](path/to/image.jpg "Figure Eight")
+
+Create a table, ranking each transit mode with an efficency score, calculated using a ratio between the volume of frieght and passengers moved to the infrastructure length invested.
+
+----------------------------------------------------------------
+
+It should be noted that as this project grows it is my intention to laucnh two other investigation points, these being a comparative evaluation of transit across the globe, as well as an investigating seeing how certain modes of transit behave during a growth phase or during a crisis (economic, political, social). These will implemented using more complicated methods relevant to statistics and machine learning.
+   
 ## Understanding the Results
+Given the data and its visualizations, let go ahead and breakdown what we are seeing. 
 
 ### Conclusion and Takeaways
 
