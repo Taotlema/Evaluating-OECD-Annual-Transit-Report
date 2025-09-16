@@ -106,8 +106,10 @@ It should be noted that as this project grows it is my intention to laucnh two o
 Given the data and its visualizations, let go ahead and breakdown what we are seeing. 
 
 ### Conclusion and Takeaways
+The data shows that road transport currently carries the largest volume of goods and passengers, but it falls short in efficiency compared to maritime shipping and pipelines, which excel in specialized high-volume tasks. Rail emerges as a balanced mode, supporting both freight and passengers while offering more sustainable performance. Technically, the modular analysis approach—separating freight, passengers, incidents, infrastructure, and efficiency—proved effective for revealing patterns, though limitations remain due to OECD bias, limited urban–rural distinction, and the absence of long-term projections.
 
 ### Impact
+Effectiveness in transit comes from using each mode where it performs best. Policy should prioritize maritime shipping for large-scale imports and exports, rail for regional distribution of goods and people, and roads for specialized or last-mile tasks. This integrated approach guides infrastructure investment toward efficiency and sustainability, encourages regional adaptation, and strengthens connections across modes, ensuring that each contributes optimally to the broader transport system.
 
 ## References
 1) OECD International Transport Forum. (2024). Transport Statistics Database.
