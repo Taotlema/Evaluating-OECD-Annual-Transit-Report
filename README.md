@@ -52,49 +52,49 @@ In order to generate a general overview of transit trends around the globe, I ha
 
 1) **Global Freight Distribution (Pie Chart)**
 
-![Alt text](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Distribution%20of%20Freight%20Goods%20by%20Transit%20Mode.png "Figure One")
+![Figure One](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Distribution%20of%20Freight%20Goods%20by%20Transit%20Mode.png?raw=true "Figure One")
 
 Road transport carries most of the world’s freight, followed by maritime and rail.
 
 2) **Freight Volume Trends Over Time (Line Graph, 2020-2023)**
 
-![Alt text](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Freight%20Volume%20of%20Goods%20Over%20Time.png "Figure Two")
+![Figure Two](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Freight%20Volume%20of%20Goods%20Over%20Time.png?raw=true "Figure Two")
 
 This visualization not only provides a overview of how each mode of transit has been used but also shows how said usage was impacted during COVID and the pandemic recovery period.
 
 3) **Passenger Volume by Transit Mode (Bar Chart)**
 
-![Alt text]([path/to/image.jpg](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Passenger%20Distribution.png) "Figure Three")
+![Figure Three](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Passenger%20Distribution.png?raw=true "Figure Three")
 
 The figure only has access to road and rail usage for passengers, with road tranist heavily dominating.
 
 4) **Passenger Volume Trends Over Time (Line Graph, 2020-2023)**
 
-![Alt text](path/to/image.jpg "Figure Four")
+![Figure Four](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Passenger%20Volume%20by%20Transport%20Mode%20Over%20Time%20(2020-23).png?raw=true "Figure Four")
 
 Visualization shows how passenger ridership per mode changed throughout 2020 until 2023.
 
 5) **Incidents by Transit Mode (Table)**
 
-![Alt text]((https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Incidents%20by%20Transport%20Mode.png)"Figure Five")
+![Figure Five](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Incidents%20by%20Transport%20Mode.png?raw=true "Figure Five")
 
 Passenger incident data has only been collected for road transit, the table above merely shows the ammount of incidents that have occured.
 
 6) **Country Transit Mode Dependency (Heatmap)**
 
-![Alt text](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Country%20Transit%20Mode%20Dependency.png) "Figure Six")
+![Figure Six](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Country%20Transit%20Mode%20Dependency.png?raw=true "Figure Six")
 
 Figure above shows how dependent countries are on a given transit mode. Often shaped by the geogrpahy, and economic activity of the region.
 
 7) **Goods and Passenger Transit Mode Dependency (Heatmap)**
 
-![Alt text](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Goods%20and%20Transit%20Mode%20Dependency.png "Figure Seven")
+![Figure Seven](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Goods%20and%20Transit%20Mode%20Dependency.png?raw=true "Figure Seven")
 
 Heatmap showing the dependent each movement metric {frieght, container, and passenger} are on each transit mode. Note that frieght refers to all moved cargo, while containers specifically refer to the industril metal boxes.
 
 8) **Infrastructure Efficiency Analysis (Table)**
 
-![Alt text](path/to/image.jpg "Figure Eight")
+![Figure Eight](https://github.com/Taotlema/Evaluating-OECD-Annual-Transit-Report/blob/main/Evaluating%20OECD's%20Transit%20Report/Figures/Table%2C%20Effiecency%20Socre.png?raw=true "Figure Eight")
 
 Create a table, ranking each transit mode with an efficency score, calculated using a ratio between the volume of frieght and passengers moved to the infrastructure length invested.
 
